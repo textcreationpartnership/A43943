@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The history of the rook and turkeys</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43943</idno>
+            <idno type="STC">Wing H2177A</idno>
+            <idno type="STC">ESTC R218007</idno>
+            <idno type="EEBO-CITATION">99829635</idno>
+            <idno type="PROQUEST">99829635</idno>
+            <idno type="VID">34076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43943)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34076)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2007:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The history of the rook and turkeys</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Randal Taylor, near Stationers-Hall,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original at the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tories, English --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:34076:1" rendition="simple:additions"/>
+            <head>THE HISTORY OF THE <hi>Rook and Turkeys.</hi>
+            </head>
+            <p>ROyalty and Dominion, and Fealty and Obedience, are thoſe neceſſary Inſtitutions for the ſupport and pre<g ref="char:EOLhyphen"/>ſervation of Order and Society in the World, that they ſeem deſign'd for the Oeconomy of the whole Creation: And Prerogative and Subjection are not only found among <hi>Birds</hi> and <hi>Beaſts,</hi> but we may trace down a Soveraign Head even to the Hive and the Ho<g ref="char:EOLhyphen"/>ny-Comb, in the very Juriſdiction of a poor Plantation of <hi>Bees.</hi>
+            </p>
+            <p>As Authority and Servitude, therefore, are thoſe Univerſal Bonds of Communion; our preſent ſmall Treatiſe, tho' great Theme, is a Select and Compendious Collection of the Ethicks, Politi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks, and Adminiſtration of ſome late Reigns, within the Airy Principality, the <hi>Empire of the BIRDS.</hi>
+            </p>
+            <p>In a certain rich and fat Northern Soyle, long had there reign'd a Succeſſion of <hi>Royal EAGLES;</hi> and ſo reign'd, with ſuch a Conſtitution of <hi>Mo<g ref="char:EOLhyphen"/>narchy,</hi> as beſt aggrandiz'd the Soveraign, and beſt eaſed the Subject: For where Love and not Fear obeys, is the Prince truly Greateſt; and where the Links of Duty and Submiſſion are Bracelets, not Fetters, is Subjection truly lighteſt and happieſt.</p>
+            <p>To make this <hi>Aquilinary</hi> Soveraignty thus Great, and withal, thus eaſie; the <hi>Grand Coun<g ref="char:EOLhyphen"/>cil</hi> of the <hi>STORKS,</hi> thoſe ever pious Patri<g ref="char:EOLhyphen"/>ots, that carry their aged Sires on their Backs, were always call'd in as Aſſiſtants to this <hi>Supreme</hi> Adminiſtration: And thus joining in the com<g ref="char:EOLhyphen"/>mon Sanction and Boundaries of Command and Homage, the whole Precepts and Rules of their own Duty and Obedience, nothing could more contribute to the general Felicity, than this <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> and <hi>Conſort</hi> of Government.</p>
+            <p>The <hi>Eagles,</hi> whilſt they thus govern'd, truly carried the <hi>Thunder</hi> in their Talons, being the univerſal Darling Majeſty at h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, and no leſs univerſal <hi>Terror</hi> abroad. But when any irregu<g ref="char:EOLhyphen"/>lar miſtaken Ambition of extending their Power too far, put 'em upon too large a ſtretch of Wing, the Popular Jealouſie was always ſo wakeful and ever ſo dreadful to ſuch Inſults and Encroachments, that the too aſpiring Soarers ſtill fail'd in their Hopes. For Inſtance of old, when the <hi>Royal Aquilinaries</hi> fluttered too high, and prey'd too ſharp, how often have the Inſurrecti<g ref="char:EOLhyphen"/>ons of the whole <hi>Noble Faulconry</hi> made Head a<g ref="char:EOLhyphen"/>gainſt them, to many a torn Plume, bloody Beak, and broken Talons between 'em? Witneſs the Purchaſe of their Great <hi>Forreſt Charter,</hi> and the reſt of their ample and ſpacious <hi>Rangeries,</hi> ob<g ref="char:EOLhyphen"/>tained at no leſs than the price of their Blood. For, indeed, to ſum up the whole Genius and Souls of this Northern Colony, they could ne<g ref="char:EOLhyphen"/>ver
+<pb n="2" facs="tcp:34076:2"/>brook either Cover or Cage-door to their Great <hi>Aviary.</hi> The free and open Air were the Birth-right they challenged, and even the poor<g ref="char:EOLhyphen"/>eſt Ruſtick Poultry claim'd that aſſerted Property to chuck in their own Roofts, and crow at their own Barn-door.</p>
+            <p>But of all our boaſted Strength and Glory, the fair Effects of this great <hi>Royal <g ref="char:V">Ʋ</g>nion,</hi> no<g ref="char:EOLhyphen"/>thing could equal the once Illuſtrious <hi>VIRGIN Eagle</hi>'s Reign, that Miracle of Imperial Sway, ſo link'd in all her adoring Subjects Hearts, that all the ſinging Quires, the univerſal Muſick of the Fields, on every Bough chirp'd round her. 'Twas then, and by that influencing Aſcendance, her bold Commiſſion'd <hi>DRAKE</hi> dealt forth her flaming Vengeance, and made that glorious <hi>Conflagration,</hi> that <hi>blazing Pile</hi> of her cruſht Foes, as rendered the trembling Univerſe her Vaſſal. Could any fluttering Neighbour, round her, grow too Proud or Inſolent! No; the Great <hi>Virgin</hi> Terror ſoon clipt his Wings; more eſpe<g ref="char:EOLhyphen"/>cially, if any impudent <hi>Water-Fowle</hi> pretended to make the leaſt Hover within her own ſole Soveraignty, the great <hi>Fence-Moat</hi> round her Aviary.</p>
+            <p>But, alas! this National Happineſs was a Bleſſing too great to be Immortal: During her long happy too ſhort Reign, indeed, it laſted. But, oh, what ſudden Fall from all that Gran<g ref="char:EOLhyphen"/>deur! Her too Hen-hearted Talonleſs <hi>Succeſſor,</hi> ſo dwindled all our Native Awe and Greatneſs, ſo poorly ſhed his Beak, ſo ſuffered the whole crowing Neighbourhood to grow upon us, as entayl'd that miſerable deſcending Patri<g ref="char:EOLhyphen"/>mony to his too unhappy Heir. Unhappy in<g ref="char:EOLhyphen"/>deed! for what betwixt his natural Averſion to the great <hi>Storkery,</hi> his too paſſionate Fondneſs of ſome bloated-feather'd Favourites, and the too deep Reſentments of his over-jealous Homagers, (the both ſides too fatal Frailty) that violent and tremendous <hi>Irruption</hi> broke forth, as ended not till it not only diſmounted, but embrued their bar<g ref="char:EOLhyphen"/>barous ſacriledgious Fury in the poor bleeding <hi>Eagles</hi> Veins, and drove his young pittied <hi>Eaglets</hi> into a wretched wandring <hi>Exile;</hi> whilſt a whole Neſt of <hi>croaking Ravens</hi> percht the Royal Cedar, and an uſurping barbarous <hi>Griffon,</hi> that party-compound Monſter, fill'd the Throne. 'Tis true, to give even Treaſon and Infidelity their due, he carried Terror, the dread of Nati<g ref="char:EOLhyphen"/>ons, with him; but <hi>Right</hi> and <hi>Juſtice,</hi> thoſe Faireſt Plumes of Power, were wanting. Till Heaven, at laſt, in pity to our Sufferings, as he had raign'd in Storms, diſlodg'd him in a <hi>Whirl<g ref="char:EOLhyphen"/>wind;</hi> ſummon'd the roaring Elements to his <hi>Exit,</hi> and lowr'd the gawdy <hi>Pageant;</hi> his deſpiſed, now no longer formidable Relicks, reſerved only to be hung up a Scare-crow on a Perch, and his Creſt advanced to a Pinnacle.</p>
+            <p>But now the too long mourning Aviary, with flagging Wings and murmuring Notes, all drooping ſaw their too miſtaken Folly, and watching the bleſt occaſion (a too poor Expi<g ref="char:EOLhyphen"/>ation) of gathering up the Spoils of Majeſty, and reſtoring the too long borrowed Regale Plumes, aſſiſted by aiding <hi>Miracles,</hi> recall'd the baniſht <hi>Eaglets.</hi> But, oh, what ecchoing Triumphs re<g ref="char:EOLhyphen"/>ceived them! The <hi>Dove</hi> and the <hi>Olive-branch,</hi> the <hi>Swallow</hi> and the <hi>Spring,</hi> came 'ore with them. Now <hi>Royalty</hi> and her great <hi>Eagle</hi> was once more remounted; and ſo remounted, ſo met, ſo wel<g ref="char:EOLhyphen"/>comed, thoſe thouſand thouſand Chanticleers to greet him, that nothing was thought too rich to deck his ſhining Neſt, at this more than <hi>Phoenix</hi> Reſurrection; inſomuch, that that profuſeneſs of Joys carreſt him, that upon all Occaſions our opening Hearts never thought the plucking of our own richeſt <hi>golden</hi> Feathers too much to pleaſure him.</p>
+            <p>With this general <hi>Harmony</hi> in the great Aviary, never was a fairer opportunity preſented, for the Royal <hi>Eagle</hi> to recover the ancient Renown and long loſt Glory of his <hi>Anceſtry;</hi> and by fol<g ref="char:EOLhyphen"/>lowing the famous <hi>Virgin-Preſident,</hi> have copied, if poſſible, beyond the Original. And, indeed, never was more Occaſion for puſhing for that Re<g ref="char:EOLhyphen"/>covery, or patterning from that Example. For it was in this Reign that the neighbouring <hi>Tyrant V<g ref="char:V">Ʋ</g>LT<g ref="char:V">Ʋ</g>RE</hi> began to feed his wild Ambition, and gorge with that Spoil and Rapine as threat<g ref="char:EOLhyphen"/>ned the whole Weſtern World. The <hi>Imperial</hi> remoter <hi>Eagle</hi> already felt his Pounces; and all the weaker Neighbourhood, round him, were daily craven'd and daſtarded before him. And though the common foreſeen Danger might poſ<g ref="char:EOLhyphen"/>ſibly come laſt to his door, yet our <hi>Weak-ey'd</hi> Royal <hi>Eagle,</hi> either not able to face the Riſing Sun before him, or diſolv'd in his ſupiner <hi>Eaſe</hi> and <hi>Luxury,</hi> look'd not ſo far beyond him as to<g ref="char:EOLunhyphen"/>morrow; inſtead of oppoſing and reducing this too formidable <hi>Incroacher,</hi> rather animated and aſſiſted his Ambition: And though elected the
+<pb n="3" facs="tcp:34076:2"/>common <hi>Arbiter General,</hi> ſo far derogated from that Truſt and Character, as to promote rather than check the ſpreading Deſolation; whilſt not only ſcarce a young <hi>Noble Faulcon</hi> among us, but either fluſht his Talons, and all our young <hi>Cock<g ref="char:EOLhyphen"/>eril</hi> ſharpened their Spurs in the great <hi>Vultures</hi> Cauſe; or elſe by a more ſhameful too ſpreading Degeneracy, our daily debaſing Breed from the once Glory of the <hi>Cock-pit,</hi> now, <hi>R — s ad Exem<g ref="char:EOLhyphen"/>plum,</hi> were dwindled only to Heroes at a <hi>Hen<g ref="char:EOLhyphen"/>rooſt.</hi>
+            </p>
+            <p>But above all, for the full Conſummation of our Calamities <hi>(Hinc illae Lachrymae)</hi> our Royal <hi>Eagle</hi> himſelf <hi>moulted</hi> all his own Royalty to <hi>imp</hi> the <hi>Vultures</hi> Wings; and all by an unaccountable Fondneſs and Servility to that very unhoſpitable Neſt that once moſt ſhamefully refuſed his own Exil'd Foot and wearied Wing a Reſting-place.</p>
+            <p>But if all theſe Infelicities attended this <hi>Dar<g ref="char:EOLhyphen"/>ling Adminiſtration,</hi> what melancholy face of Con<g ref="char:EOLhyphen"/>fuſion muſt the following Reign produce? Here, <hi>(meminiſſe horret)</hi> what too juſt Fears ſurrounded us. Now all the old <hi>Church-Daws</hi> were all upon the Flutter and the Wing for the re-building their ancient <hi>Neſts</hi> again. The Owl-light Sculk<g ref="char:EOLhyphen"/>ers and Night-bats flew in open day; nay, <hi>Legates</hi> and <hi>Embaſſies</hi> were poſted over to the Tripple-comb'd <hi>Peters Cock,</hi> to invite him to his old Rooſt again among us; and already he began ſo to crow upon us, and his <hi>Maudlin-Harpyes</hi> Claws had fixt ſo faſt; and a hundred other of his <hi>Porcupine-quill'd</hi> Sharpers were ſo brooding, as gave us a fair Sample of what we muſt expect. And all theſe extravagant Irregularities acted with that hardy Creſt and ſtrutting Tail, that with a perfect <hi>Eſtridge Stomach</hi> we digeſted even <hi>Vows, Oaths</hi> and <hi>Honour,</hi> as eaſie as Nails and Pebbles. And what between a <hi>Henpeckt Aſcen<g ref="char:EOLhyphen"/>dance</hi> over him, and his own natural Infatuation, to what poor Shifts did our deſcending <hi>Eagle</hi> ſtoop? Nay, it was ſhrewdly to be ſuſpected, that even a falſe Egg was hatcht for an Inheri<g ref="char:EOLhyphen"/>ting <hi>Eaglet.</hi>
+            </p>
+            <p>But not to dwell too long on ſo ungrateful a Theme. 'Twas enough, that the inevitable approaching Danger ſo frighted the whole Avi<g ref="char:EOLhyphen"/>ary, that for their own Preſervation they im<g ref="char:EOLhyphen"/>plored the Succour of a new generous <hi>CHAM<g ref="char:EOLhyphen"/>PION Eagle</hi> to take Wing, and ſpeed over for our Protection. How the whole Choriſters of the Grove ſaluted their welcom <hi>Deliverer,</hi> is ſo freſh in Memory, as not to want a Repetition. Let it ſuffice, that what betwixt a Creſt-fall and a Crop-ſick ſhame and confuſion, our great Deſpairer poorly wheel'd off for Shelter under his too long darling <hi>Vultures</hi> Wing, and left the great <hi>abandon'd</hi> Cedar, the Meed and Reward from the unanimous grateful <hi>Storkery,</hi> to our young <hi>bold Eagle</hi> and his fair <hi>Royal Mate.</hi> Now all our Frights ſoon vaniſht, whilſt the whole Grove were all ſecure of ſinging their own native Ayrs, paſt all the threatning Danger of being either <hi>Peter-cock'd-claw'd</hi> or <hi>Vulture-co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pt Cage-birds,</hi> or having falſe Whiſtlers over us, or falſe Notes taught us. <hi>Liberty</hi> and <hi>Safety</hi> in their new Hal<g ref="char:EOLhyphen"/>cyon Flight, thoſe now unraviſht <hi>Philomels,</hi> cou'd ſing without the Thorn at their Breaſt. In ſhort, the whole old Neſt was all diſmantled, and the great <hi>Cockatrice-Egg</hi> all addled.</p>
+            <p>And now the whole Face of Empire changed. The too lately and too long idoll'd <hi>Vulture,</hi> now grown the univerſal Odium; with a Defiance worthy the great Aviary, from Cooing and Bill<g ref="char:EOLhyphen"/>ing, and all our former Galleſs <hi>Turtle-play,</hi> re<g ref="char:EOLhyphen"/>viving <hi>Glory</hi> begun to ſharpen up her old ruſty Gafflets, and whet her blunted Beak. Our now <hi>truly Royal</hi> and only <hi>Long-wing'd Eagle,</hi> led forth to foreign Fields of Honour: And though flying at a too head-ſtrong Game, (our own only Fault, the Flight begun no ſooner, and the Quarry ſo over-grown) yet deſpiſing Dangers, Odds and Inequality, made thoſe impetuous Flights at the bold <hi>Vulture,</hi> that never was Claſh more fierce or Grapples more terrible. Nay, there was once a Day, when had our ſhrinking Reer but ſeconded our bolder leading Front, their whole Glory had been ſtruck down before us, and the whole Field of Prey been all our own.</p>
+            <p>And 'twas now our <hi>Royal Eagle,</hi> by the great <hi>Virgin Example,</hi> ſet forth our ſecond great <hi>Ocean DRAKE,</hi> his bold deputed <hi>Thunderer,</hi> who in that memorable Scene of deathleſs Glory, drove their whole flying <hi>Craven</hi>-Flock like ſo many dared Larks before him, ſhamefully ſculking home, with all the Wing that Fear cou'd make, for Covert for their Coward Heads; where in the face of the whole trembling <hi>Vultury,</hi> he put fire to the Coop, and ſet 'em a blazing.</p>
+            <p>Such was the Glory of that Illuſtrious Day, and ſuch the Worth and Honour that atchieved it. Yet even ſuch Worth, though ſolemnly congra<g ref="char:EOLhyphen"/>tuled
+<pb n="4" facs="tcp:34076:3"/>by the acknowledging <hi>Storkery,</hi> however not able to tune his Ayrs with the Great <hi>Bull-Fi — h,</hi> was laid by: And his deveſted Power lodg'd in a Tripple Succeſſion of new choſen Fa<g ref="char:EOLhyphen"/>vourites. Theſe promiſing new Darlings, reſolv<g ref="char:EOLhyphen"/>ed to out-fly their <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>redeceſſor, were for carrying their Thunder even to the <hi>Vultury</hi>'s own Door. But oh the ſad Fatality of defeated Hopes! Alas! fall'n ſhort of all thoſe towring Wonders, they came too late; for the Penn was empty, and the <hi>Birds</hi> were flown. But Miſcarriage never wants Misfortune for a Plea; ſome pretended to prat<g ref="char:EOLhyphen"/>tle, that want of Provant might poſſibly retard their otherwiſe nimbler ſpeed; ſome ſtickt not to ſay, that poſſibly ſome Canary Birds might per<g ref="char:EOLhyphen"/>haps have too much Rape in their Troughs, and yet want a little Hempſeed, or ſo: but that Shadow vaniſht, and that Calumny was clear'd. However, whatever impeding Obſtacle hinder'd, as whether not unhoo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in good time, or not whiſtled off ſoon off, or what elſe, <hi>&amp;c.</hi> ſo it was, that they only took a long <hi>Rovers</hi> to no purpoſe, only ſhook their wanton Bells a little, and ſo home again: For as we ſaid before, the Birds were flown.</p>
+            <p>Flown! did I ſay! and good reaſon too. For inſtead of dry Buffets and hard Beaks at home, they had a fatter Prey and an eaſier Game a little farther abroad. For about this time from our Aviary was a great <hi>Turkey Drove</hi> deſign'd to tra<g ref="char:EOLhyphen"/>vel that way; head<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by a Leading <hi>ROOK</hi> and a ſmall attending <hi>Rookery,</hi> (a too ſlender Guard againſt ſuch potent Talons) that at that very Paſs, with their unweildy Bulks and wealthy Feathers muſt run full into their Months; For whoſe waited Reception theſe keen Expectants lay ho<g ref="char:EOLhyphen"/>vering. I confeſs, this travelling <hi>Rookery</hi> and his Rich <hi>Charge,</hi> had ſeveral Months before been pre<g ref="char:EOLhyphen"/>pared for their Movement; but ſome Stop or other ſtill kept them in their Coops, and this was the only Hour of Departure.</p>
+            <p>No ſooner were they ſet out and paſt Recal, but the whole publick Out-cry was waken'd, and alarm'd at their Danger. The affrighting dread of a <hi>Decoy</hi> rais'd a hundred untuneable Murmurs, even to blame both the Goſſelin-poll-Coop ma<g ref="char:EOLhyphen"/>ſters and Aviary-keepers; and the modeſteſt Reproach was, to call it a <hi>Buzardiſm.</hi> Their Fears, alas, were but too juſt. For the poor un<g ref="char:EOLhyphen"/>wary <hi>Rook</hi> and his long heavy-pinion'd Train fell into the Snare. 'Tis true, in this diſmal Sur<g ref="char:EOLhyphen"/>prize, and ſeemingly total Proſpect of Ruin, juſt ready for the <hi>Cormorant</hi> Gorge before us, we had a little more than Ordinary (I might ſay) almoſt miraculous Deliverance. For unleſs a few of our Neighbours Fellow-travelling Flock, that, by moving in the Van, were a little too near their Reach and Gripe, and ſo fell into their Talons, 'twas our more eſpecial Happineſs ſo to amuſe by a falſe Appearance of our Strength well rang'd and well manag'd (our <hi>Rookeries</hi> prudent After<g ref="char:EOLhyphen"/>game) that under the umbrage of that Amuſe<g ref="char:EOLhyphen"/>ment, and the Terror it rais'd, we ſecured our Retreat. In ſhort, we made all that nimble Wing as to ſlip home; only 3 or 4 Stragglers that run into a Friends Coop too weak for ſhelter, were under thoſe hard Apprehenſions, as to be forced to play the Dop-chicks, and duck under Water for their Safety: And one or two of them had the Misfortune to have ſome of their Upper-tire Feathers ſinged; and a good ſhift they got off ſo.</p>
+            <p>But had the <hi>Vulture</hi> made a <hi>Home-ſwoop,</hi> and ſeiz'd the whole Quarry, (as God knows he was little leſs than Cock-ſure of us) good Heav'n, what a ſwinging <hi>High-Tory Feaſt</hi> would he have furniſht, with ſo many fat well plumed Pouts, for the Great Bird <hi>of his own Feather,</hi> his own dear <hi>Brother of Prey</hi> at the <hi>Turkey-Port!</hi> Nay, the <hi>JAC-Daws</hi> round us fell a chattring at no ſmall rate, and ſo tickled their Gizzards and Merry-thoughts, and hooted our Succeſs, as is paſt Imagination. Nay, a more fatal Conſequence attended us (for thoſe <hi>Cacklers</hi> at home we did not ſo much value:) How did the <hi>Parraquets</hi> abroad, and all the tat<g ref="char:EOLhyphen"/>ling <hi>Gallick Magpyes</hi> buz this defeat to <hi>Mahomet</hi>'s <hi>Pidgeon,</hi> to the ſcandal of the <hi>Royal,</hi> and the pre<g ref="char:EOLhyphen"/>judice of the <hi>Imperial Eagle;</hi> by boaſting the only Vanity they wanted, <hi>viz.</hi> The Length and Strength of Their Pounces and Talons, and the Shortneſs and Weakneſs of Ours.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed for</hi> Randal Taylor, <hi>near</hi> Stationers-Hall, <hi>1694.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
